@@ -1,4 +1,5 @@
 def parrot(string)
-puts string
+
+puts parrot
 end
 return parrot
