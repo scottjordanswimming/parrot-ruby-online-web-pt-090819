@@ -4,5 +4,5 @@ puts "#{phrase}"
 
 end
 
-parrot("Pretty bird!")
+return parrot
 
