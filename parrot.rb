@@ -1,5 +1,7 @@
 def parrot(string = "Squawk!")
 
-print "#{string}"
+puts "#{string}"
 
 end
+
+
