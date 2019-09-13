@@ -1,4 +1,4 @@
 def parrot(string)
-string = "Swuawk!"
+string = "Squawk!"
 puts parrot
 end
