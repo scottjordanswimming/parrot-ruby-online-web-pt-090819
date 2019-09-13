@@ -1,4 +1,5 @@
-def parrot(string = Squawk!)
+def parrot
 
-puts parrot(string)
+puts "Squawk!"
+
 end
