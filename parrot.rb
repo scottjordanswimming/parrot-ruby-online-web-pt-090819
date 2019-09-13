@@ -4,4 +4,4 @@ puts "#{string}"
 
 end
 
-return parrot
+return "#{string}"
