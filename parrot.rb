@@ -4,5 +4,5 @@ puts "#{string}"
 
 end
 
-parrot
+parrot("Pretty bird!")
 
