@@ -4,3 +4,4 @@ puts parrot
 
 end
 
+return parrot
